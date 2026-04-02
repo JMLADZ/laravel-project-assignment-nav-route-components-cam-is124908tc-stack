@@ -19,4 +19,4 @@ Route::get('/showcases', function() {
 });
 Route::get('/blog', function() {
     return view('blog');
-});
+});  
